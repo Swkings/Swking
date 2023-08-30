@@ -1,4 +1,4 @@
-# Swkings
+# Kang's CodeSpace
 
 <a href="https://github.com/Swkings/Swkings">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swkings&hide=java,html,tex,jupyter%20notebook&theme=tokyonight" />
